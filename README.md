@@ -22,7 +22,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuigon)
 
-<br/><br/><br/>
+<br/><br/>
 
 <h1>🛠️Tech Stack🛠️</h1>
 
