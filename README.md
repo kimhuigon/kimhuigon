@@ -13,14 +13,8 @@
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> https://gonhorizon.tistory.com
 </a><br/><br/>
 
-<div align = "center">
-  <a href="https://github.com/kimhuigon/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimhuigon&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
-  </a>
-</div>
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhuigon)
+![kimhuigon's github stats](https://github-readme-stats.vercel.app/api?username=kimhuigon&show_icons=true)
+[![kimhuigon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhuigon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimhuigon)
 
 <br/><br/>
 
